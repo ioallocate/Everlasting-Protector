@@ -14,8 +14,8 @@ the server currently being distributed privately due to it still being in its ea
 Our main goal is to specifically join in and help developers protect against artificial intelligence assisted 
 reversing tools which have already started breaking down commercial ones which includes but is not limited to:
 
-(VMProtect)[https://vmpsoft.com/]
-(Themida)[https://www.oreans.com/Themida.php]
+[VMProtect](https://vmpsoft.com)
+[Themida](https://www.oreans.com/Themida.php)
 more to follow that have been known to be vulnerable against artificial intelligence.
 
 The following components are still in development:
