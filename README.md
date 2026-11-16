@@ -41,6 +41,8 @@ It targets x64 Windows PE binaries and provides code protection, virtualization,
 
 Its primary purpose is to make reverse engineering more difficult for both human analysts and AI-assisted analysis tools.
 
+This is its current feature set:
+
 ### Strings and Code
 
 - String encryption.
