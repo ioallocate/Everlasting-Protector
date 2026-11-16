@@ -1,6 +1,8 @@
 
 # Everlasting-Protector
 
+![Everlasting-Logo](assets/logo.png)
+
 ## Exclamation-mark
 
 Everlasting is an actively developed binary-to-binary software protector targeting x64 Windows Portable Executables (PE).
