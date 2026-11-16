@@ -9,7 +9,7 @@ Everlasting is an actively developed binary-to-binary software protector targeti
 The project is under active development. Not all planned features and services are currently available.
 
 We are closed source, we are not a company. We are 2 individuals working on this projects with
-the server currently being distributed privately due to it still being in its early and experimental phase.
+the service currently being distributed privately due to it still being in its early and experimental phase.
 
 Our main goal is to specifically join in and help developers protect against artificial intelligence assisted 
 reversing tools which have already started breaking down commercial ones which includes but is not limited to:
