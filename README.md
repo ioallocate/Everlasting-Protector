@@ -1,7 +1,7 @@
 
 # Everlasting-Protector
 
-![Everlasting-Logo](assets/logo.png)
+![Everlasting-Logo](assets/Logo.png)
 
 ## Exclamation-mark
 
