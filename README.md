@@ -115,6 +115,14 @@ Its primary purpose is to make reverse engineering more difficult for both human
 - Header mutation.
 - Encrypted watermark.
 
+### Example 
+
+This shows a sample file packed using Everlasting analyzed with IDA.
+
+<p align="center">
+  <img src="assets/ExamplePicture.png" width="700">
+</p>
+
 ### Licensing and Developer Services
 
 The licensing and storefront systems are currently in development.
@@ -220,32 +228,6 @@ Developers only need to place these calls at the beginning and end of their appl
 The protector uses these markers to determine the integration boundaries. During the protection build process, the required licensing components are embedded into the resulting binary automatically.
 
 This removes the need for developers to manually implement licensing functionality inside their C++ applications.
-
-### UDP Architecture
-
-A UDP-based server architecture is also in development in connection with the licensing system.
-
-Planned functionality includes:
-
-- Assembly instruction streaming.
-- Data streaming.
-- Constant streaming.
-- Remote Procedure Calls (RPC).
-- Communication between protected clients and the server.
-- Integration with the licensing infrastructure.
-
-## Tilde-mark
-
-Potential areas of expansion include:
-
-- Additional virtualization capabilities.
-- More decoy content types.
-- Additional build-specific protection options.
-- Expanded licensing functionality.
-- Developer storefront improvements.
-- Additional official connectors.
-- Expanded SDK functionality.
-- Further remote communication capabilities.
 
 ## Dot
 
