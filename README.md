@@ -35,7 +35,7 @@ The licensing and storefront systems should not be considered released functiona
 
 ## Question-mark
 
-Everlasting is a binary-to-binary software protector developed by [ioallocate](https://github.com/ioallocate) and [torete (also known as pity)](https://github.com/toreto67), dating back to September 27.
+Everlasting is a binary-to-binary software protector developed by [ioallocate](https://github.com/ioallocate) and [torete](https://github.com/toreto67), dating back to September 27.
 
 It targets x64 Windows PE binaries and provides code protection, virtualization, import protection, runtime encryption, decoy generation, anti-analysis mechanisms, and binary hardening.
 
