@@ -123,6 +123,9 @@ This shows a sample file packed using Everlasting analyzed with IDA.
   <img src="assets/ExamplePicture.png" width="700">
 </p>
 
+Note: you may be wondering, why are the sections called ".drmini" and why is the suffix of the file "drmini" too?
+Not too long ago we renamed our project to everlasting symbolizing the duration and key idea of this packer.
+
 ### Licensing and Developer Services
 
 The licensing and storefront systems are currently in development.
