@@ -19,7 +19,7 @@ reversing tools which have already started breaking down commercial ones which i
 
 more to follow that have been known to be vulnerable against artificial intelligence.
 
-The Project currently contains about 125~ lines of code, measured using [cloc](https://github.com/AlDanial/cloc). The original base of the protector
+The Project currently contains about 125k~ lines of code, measured using [cloc](https://github.com/AlDanial/cloc). The original base of the protector
 has existed longer than the project itself existed tho still closed source and private work (by torete).
 
 The following components are still in development:
