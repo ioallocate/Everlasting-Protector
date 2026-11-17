@@ -1,4 +1,3 @@
-<img width="833" height="528" alt="image" src="https://github.com/user-attachments/assets/b9435e47-aedb-41a9-89f0-dd5b959bc77a" />
 # Everlasting-Protector
 
 <img src="assets/Logo.png" width="400">
