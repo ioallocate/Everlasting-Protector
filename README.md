@@ -1,4 +1,4 @@
-
+<img width="833" height="528" alt="image" src="https://github.com/user-attachments/assets/b9435e47-aedb-41a9-89f0-dd5b959bc77a" />
 # Everlasting-Protector
 
 <img src="assets/Logo.png" width="400">
@@ -19,6 +19,9 @@ reversing tools which have already started breaking down commercial ones which i
 [Themida](https://www.oreans.com/Themida.php)
 
 more to follow that have been known to be vulnerable against artificial intelligence.
+
+The Project currently contains about 125~ lines of code, measured using [cloc](https://github.com/AlDanial/cloc). The original base of the protector
+has existed longer than the project itself existed tho still closed source and private work (by torete).
 
 The following components are still in development:
 
